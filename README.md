@@ -36,11 +36,4 @@ Python : pandas, seaborn, scikit‑learn
 
 Google Colab : exécution du notebook
 
-▶️ Utilisation
-Cloner le dépôt :
-
-bash
-git clone https://github.com/<karimcsss>/disney-analysis.git
-Ouvrir le notebook dans Google Colab.
-
 Exécuter les cellules pas à pas pour reproduire l’analyse.
